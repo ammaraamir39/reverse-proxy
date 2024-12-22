@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+logs/**/*.log
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Build outputs
+dist/
+build/
+out/
+*.js
+*.js.map
+*.d.ts
+
+# Environment files
+.env
+.env.*.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# MacOS
+.DS_Store
+
+# Test coverage
+coverage/
+
+# Miscellaneous
+*.temp
+*.bak
+*.tmp
+*.old
+
+# Local History
+.history/
+
+# Byebug command history
+.byebug_history
+
+# TypeScript typings
+typings/
+typings.json
